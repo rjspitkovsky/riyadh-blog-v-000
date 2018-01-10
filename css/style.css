@@ -24,9 +24,9 @@ body {
   background: rgba(255,255,255,.85);
 }
 
-h1, h2 {
+h1{
   font-family: 'Gabriela', serif;
-  color: #000000;
+  color: #fff;
 }
 
 h1 {
@@ -37,6 +37,7 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: #000000
 }
 
 h3 {
